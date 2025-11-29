@@ -33,10 +33,10 @@ const resourcesData = [
   {
     id: 1,
     subjectId: 'matematika',
-    title: 'Trigonometri Dasar',
-    desc: 'Memahami sinus, cosinus, dan tangen untuk pemula.',
-    url: 'https://google.com', // Ganti dengan link netlify materi
-    logo: 'https://placehold.co/50x50/1A5A2B/FFF?text=Tri', 
+    title: 'Operasi Hitung Pecahan',
+    desc: 'Memahami perhitungan bilangan positif negatif menggunakan analogi khas PKBM.',
+    url: 'https://jurangan-hitung.netlify.app/', // Ganti dengan link netlify materi
+    logo: 'https://placehold.co/50x50/1A5A2B/FFF?text=1', 
   },
   {
     id: 2,
