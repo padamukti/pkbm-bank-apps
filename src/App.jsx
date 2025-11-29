@@ -41,10 +41,10 @@ const resourcesData = [
   {
     id: 2,
     subjectId: 'matematika',
-    title: 'Aljabar Linear',
-    desc: 'Konsep matriks dan operasi vektor.',
-    url: '#',
-    logo: 'https://placehold.co/50x50/388E3C/FFF?text=Alg',
+    title: 'Bilangan Berpangkat',
+    desc: 'Konsep bilangan berpangkat dengan pendekatan lebih visualisasi.',
+    url: 'https://teras-pangkat.netlify.app/',
+    logo: 'https://placehold.co/50x50/388E3C/FFF?text=2',
   },
   {
     id: 3,
